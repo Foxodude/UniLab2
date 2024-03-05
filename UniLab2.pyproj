@@ -11,6 +11,7 @@
     <OutputPath>.</OutputPath>
     <Name>UniLab2</Name>
     <RootNamespace>UniLab2</RootNamespace>
+    <IsWindowsApplication>False</IsWindowsApplication>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
     <DebugSymbols>true</DebugSymbols>
